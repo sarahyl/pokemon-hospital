@@ -8,5 +8,5 @@ Contributions include:
 - Functionalities such as add/delete pokemon to database
 - Pokemon search functionality
 - The nurse "my profile" page
-- Login/logout functionality,
+- Login/logout functionality
 - UX Design (HTML, CSS)
